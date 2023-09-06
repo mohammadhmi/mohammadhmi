@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineer and python developer.<br>I'm interested in Network.<br>
+I'm a software engineer and python developer.
 
 
 ## 🌐 Socials:
